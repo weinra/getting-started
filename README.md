@@ -63,7 +63,7 @@ Now add some content to your markdown file. When you are editing the file, it wi
 
 ![Example New Contributor File](/images/new-contributor-example.png)
 
-Once you are happy with a short description of yourself, scroll to the bottom of the page and click the `Commit changes` button. Please remember this is public on the web, so do not put psensitive or private information here.
+Once you are happy with a short description of yourself, scroll to the bottom of the page and click the `Commit changes` button. Please remember this is public on the web, so do not put sensitive or private information here.
 
 ![Github Commit Changes](/images/commit-changes.png)
 
