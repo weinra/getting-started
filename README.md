@@ -63,7 +63,13 @@ Nice! Now we are going to create our file! In the top box, we need to name our f
 
 > Fun Fact: The naming we're using here is called `kabob-case` because it kind of looks like the `letters-are-on-a-kabob-stick`. ![Photo by pan xiaozhen on Unsplash](/images/pan-xiaozhen-kabob.jpg)
 
-Now add some content to your markdown file. When you are editing the file, it will appear as plain text, but the symbols like `-` and `*` and `#` can change the appearance of the final product thanks to Markdown. Put a `#` in front of the first line to make it appear larger.
+Now add some content to your markdown file. When you are editing the file, it will appear as plain text, but the symbols like `-` and `*` and `#` can change the appearance of the final product thanks to Markdown. Put a `#` in front of the first line to make it appear larger. For the formatting to work properly, there needs to be a space after the `#`. Here is an example of what it might look like:
+
+```Markdown
+# Your name
+
+A fun little fact about yourself that doesn't give away sensitive information.
+```
 
 ![Example New Contributor File](/images/new-contributor-example.png)
 
