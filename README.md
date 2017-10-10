@@ -9,7 +9,7 @@ If you already have a Github account, you may skip this section, otherwise, if r
 
 The first thing to do is create an account. Click the `Sign Up` button in the middle of the screen (if it is there) or click the `Sign Up` link in the top right of the screen.
 
-Fill in some basic information to join github:
+Fill in some basic information to join Github:
 
 ![Join Github](/images/join-github.png)
 
@@ -17,7 +17,7 @@ You can continue to complete your account on the following screens. We recommend
 
 ![Choose Github Plan](/images/choose-github-plan.png)
 
-The most important part in creating your Github account is verifying your email address. Go to your email inbox (the one you used to sign up for github) and you should have received an email from Github:
+The most important part in creating your Github account is verifying your email address. Go to your email inbox (the one you used to sign up for Github) and you should have received an email from Github:
 
 ![Github Email](/images/github-email.png)
 
@@ -108,11 +108,9 @@ And if you click on it, you should see the end result is a beautifully rendered 
 
 ![Rendered Markdown File](/images/rendered-markdown-file.png)
 
-
-
 ## You did it!
 
-You have contributed to an open source project, and this `getting-started` project is better for it! This did simplify some of the process for most of the more complicated Open Source projects, but the fundamentals - making a copy of the code, making changes, and asking for the original - will apply accross almost all projects.
+You have contributed to an open source project, and this `getting-started` project is better for it! This did simplify some of the process for most of the more complicated Open Source projects, but the fundamentals - making a copy of the code, making changes, and asking for the original - will apply across almost all projects.
 
 ## Next up!
 
