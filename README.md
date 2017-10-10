@@ -45,7 +45,11 @@ Click the link to the [`contributors`](/contributors) folder. This is where we w
 
 ![Approachable Getting Started](/images/approachable-getting-started.png)
 
-Once you are in this folder, click the `Create New File` button.
+Once you are in the [`contributors`](/contributors) folder, click the `Create New File` button.
+
+![Create New File](/images/create-new-file.png)
+
+> Note: It's really important that you create the new file when you are in the [`contributors`](/contributors) folder and not another part of the project.
 
 With most open source projects, you can't make changes to someone else's project without their permission. Instead, you will create a copy of their project (called a `Fork`), make the changes to your copy, and then ask them nicely if they will add the changes you made in your project to their project (a `Pull Request`). Let's step through that. First, let's make a copy of the project by clicking the big green button that says `Fork this repository and propose changes`.
 
