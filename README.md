@@ -114,4 +114,4 @@ You have contributed to an open source project, and this `getting-started` proje
 
 ## Next up!
 
-If you enjoyed this tutorial, you should try your hand at other [Approachable Open Source](https://github.com/approachable-io)
+If you enjoyed this tutorial, you should try your hand at other [Approachable Open Source](https://github.com/approachable-io) projects. Specifically, we're looking for help on our [software-interview-prep](https://github.com/approachable-io/software-interview-prep) repository. We know the guide still needs work, so we'd love for you to give that a try and give us feedback!
